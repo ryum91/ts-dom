@@ -1,0 +1,15 @@
+{
+  "name": "ts-dom",
+  "version": "0.0.1",
+  "description": "Typescript library for the DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "dom"
+  ],
+  "author": "ryum91",
+  "license": "MIT"
+}
